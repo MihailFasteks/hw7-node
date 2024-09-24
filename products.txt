@@ -1,0 +1,11 @@
+name: Lenovo
+CPU: Intel
+price: 12000
+=
+name: Samsung
+CPU: Intel
+price: 12000
+=
+name: Sony
+CPU: Intel
+price: 12000
